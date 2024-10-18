@@ -1,6 +1,20 @@
-(Steps marked by a * can should not be skipped)
+(Steps marked by a * can be skipped)
 (all instruction provided is free.)
 
 Rammerhead Proxy instructions:
-1. Join the Rammerhead discord server (discord.gg/VNT4E7gN5Y) *
-2. Make an account at https://freedns.afraid.org then go to 
+1. Join the Rammerhead discord server (discord.gg/VNT4E7gN5Y) 
+2. Make an account at https://freedns.afraid.org 
+3. On the left bar click subdomains*
+4. Find the add button in the center and click it. 
+5. Under the type section, Set it to A.
+6. Under subdomain enter your desired subdomain.  (No special characters. Can be anything you want.)
+7. Under domain click "Many More avalible..."
+8. An error should pop up. Click "shared domain registry"
+9. (IMPORTANT) You can choose any domain that has its status public. (Domain is after the subdomain I.E. SUBDOMAIN.DOM.AIN) (I also recomend you choose one with not too many hosts in use.)
+10. Under Destination Put the IP:  108.181.32.77 . This is the Ip adress of rammerhead.
+11. Do the captcha. It may take a few tries.
+12. Go to the discord server under the bots tab.
+13. Type the command /add-domain. Then insert your domain (Does not include https://) and then public list 
+14. If the command sucessfully went through, your website now has the rammerhead browser on it.
+
+@brixablox
